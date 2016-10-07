@@ -1,0 +1,14 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="@string/setting_warehouse_option"
+        android:key="warehouse_selected"
+        android:entryValues="@array/warehouse_keys"
+        android:entries="@array/warehouse_values">
+    </ListPreference>
+
+    <EditTextPreference
+        android:title="@string/settings_aisle_title"
+        android:key="aisle"
+        android:summary="@string/settings_aisle_summary"
+        android:dialogTitle="@string/settings_aisle_dialog_title"/>
+</PreferenceScreen>

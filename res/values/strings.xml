@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">elneoscan</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_login">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to main -->
+    <string name="barcode">Barcode : </string>
+    <string name="product_code">Code : </string>
+    <string name="product_name">Name : </string>
+    <string name="product_qty">Quantity : </string>
+
+    <!-- Strings related to details -->
+    <string name="tv_details_edit_value">Set new quantity</string>
+    <string name="btn_save_qty">Save</string>
+    <string name="btn_cancel_qty">Cancel</string>
+
+    <!-- Strings related to Settings -->
+    <string name="settings_core_name">Settings</string>
+    <string name="setting_warehouse_option">Warehouse</string>
+
+    <string name="settings_aisle_title">Aisle</string>
+    <string name="settings_aisle_summary">Tap to edit</string>
+    <string name="settings_aisle_dialog_title">Enter aisle name</string>
+
+    <!-- Srings ... -->
+    <string name="barcode_icon">Scan</string>
+
+</resources>
